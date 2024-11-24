@@ -1,0 +1,7 @@
+/checkpoints
+__pycache__
+/models
+
+Assignment_2/logs
+.idea
+Assignment_2/mnist_data
